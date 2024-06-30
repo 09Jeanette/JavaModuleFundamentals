@@ -22,16 +22,16 @@ This project contains basic Java programming tasks organized into modules. The t
 
 Below are the example outputs of each task:
 
-### Divide Numbers , Convert String to Lowercase
+*Figure 1: Screenshot of Divide Numbers ,Convert String to Lowercase*
 ![Divide Numbers Output](output/1.png)
 
-### Reverse Array 
+*Figure 2: Screenshot of Reverse Array*
 ![Convert String to Lowercase Output](output/2.png)
 
-### Remove Key-Value Pair from HashMap 
+*Figure 3: Screenshot of Remove Key-Value Pair from HashMap*
 ![Reverse Array Output](output/3.png)
 
-### Print Numbers 1 to 10 
+*Figure 4: Screenshot of Print Numbers 1 to 10*
 ![Remove Key-Value Pair from HashMap Output](output/4.2.png)
 
 ## License
