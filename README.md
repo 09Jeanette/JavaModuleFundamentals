@@ -7,16 +7,6 @@ This project contains basic Java programming tasks organized into modules. The t
 4. Removing a key-value pair from a HashMap.
 5. Printing numbers from 1 to 10 using a while loop.
 
-## Usage
-
-1. **Clone the repository:**
-   https://github.com/09Jeanette/JavaModuleFundamentals/tree/main
-
-2. **Open the project in your preferred Java IDE (e.g.Netbeans).**
-
-3. **Run the `MainApp` class**:
-    - Locate `MainApp.java` in the '/org/zroc` package.
-    - Run the `main` method to see the program in action.
 
 ## Example Outputs of The Project
 
