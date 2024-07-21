@@ -8,7 +8,7 @@ This project contains basic Java programming tasks organized into modules. The t
 5. Printing numbers from 1 to 10 using a while loop.
 
 
-## Example Outputs of The Project
+## Screenshots of the Output
 
 Below are the example outputs of each task:
 
